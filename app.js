@@ -15,13 +15,17 @@ const nombreUrl = Nombre.toLocaleLowerCase()
 
 contenedor.innerHTML += `
 <div class='contenedor1 ${clasesTipo}'>
-<h3 id='id' class='idgeneral' >${ID}</h3>
-<h2 id='especie' class='especiegeneral'>${Especie}</h2>
-<h1 id='nombre' class='nombregeneral'>${Nombre}</h1>
+<div class='contenedorTextos'>
+<p id='id' class='idgeneral' >${ID}</p>
+<p id='especie' class='especiegeneral'>${Especie}</p>
+<p id='nombre' class='nombregeneral'>${Nombre}</p>
+</div>
+<div class='imagenContainer'>
 <img class="imagenDelPokemon" src="${Imagen}" alt="">
+</div>
 <h1 id='tipo' class='tipogeneral'>${Tipos}</h1>
 <h2 id='descripcion' class='descripciongeneral' >${Descripcion}</h2>
-<button onclick="location.href='${nombreUrl}.html'" class="botondetalle">Ver más</button>
+<button class = 'pokeBoton'onclick="location.href='./page/${nombreUrl}.html'" class="botondetalle">Ver más</button>
 </div>
 `
 
