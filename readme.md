@@ -6,8 +6,6 @@
 
 ![pagina1](./image/pagina1.png)
 
-### Esto es un ejemplo del codigo 
-
 ## se agrego la pagina de Bulbasaur y se corrigieron errores tipograficos anteriores, como que la aplicacion a la cual se le llamaba "Pagina".
 
 ![pagina2](./image/paginadeBulvasaur.png)
@@ -17,6 +15,7 @@
 ![pagina3](./image/paginadebulbasaur1.png)
 
 ### Esto es un ejemplo del codigo 
+
 
 ```javascript
 {
