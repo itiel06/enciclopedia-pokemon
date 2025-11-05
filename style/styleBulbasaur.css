@@ -1,0 +1,192 @@
+.pokedex-header {
+
+  background: linear-gradient(90deg, #388e3c, #a5d6a7);
+  padding: 16px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  border-bottom: 3px solid #2e7d32;
+  height: 80px;
+  padding: 12px 24px;
+  font-size: 18px;
+    
+
+}
+
+.logo-area {
+
+display: flex;
+align-items: center;
+gap: 12px;
+width: 32px;
+
+}
+
+.logo-icon{
+
+width: 40px;
+animation: pulse 2s infinite ease-in-out;
+}
+
+.pokedex-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 24px;
+  color: #fff;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+.pokedex-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 24px;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.pokedex-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 24px;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.nav-links {
+
+  background-color: #66bb6a;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-family: 'Share Tech Mono', monospace;
+  transition: background-color 0.3s;
+
+
+}
+
+.nav-lateral a:hover {
+  background-color: #43a047;
+}
+
+.bulbasauricono {
+  max-width: 100px;       
+  height: auto;           
+  display: block;
+  margin: 0 auto;         
+  border-radius: 12px;    
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+
+
+
+
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.1); opacity: 0.8; }
+}
+
+body {
+
+    background-image: url(/image/Copilot_20251104_231710.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+#contenedorBulbasaur {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.contenedorbulbasaur1 {
+
+background-color: rgba(255, 255, 255, 0.747);
+width: 750px;
+padding: 40px 50px;
+
+
+}
+
+.nombrebulbasaur{
+
+   
+    color: white;
+    background-color: black;
+   
+    text-align: center;
+    align-items: center;
+   
+
+}
+
+.imagenpaginabulbasaur1 {
+
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.imagenpaginabulbasaur1 img {
+
+width: 750px;
+
+}
+
+.audiodeljuego01 {
+
+    padding: 10px;
+    background-color: greenyellow;
+    height: 15px;
+    width: 105px;
+    border-radius: 100px;
+
+}
+
+#bulbasaurjuego {
+
+    background: linear-gradient(135deg, #a8e6cf, #dcedc1);
+    border: 2px solid #81c784;
+    border-radius: 12px;
+    padding: 10px 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    transition: all 0.3s ease-in-out;
+}
+
+#bulbasaurjuego :hover {
+
+    transform: scale(1.02);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+
+}
+
+#bulbasauranime {
+
+     background: linear-gradient(135deg, #a8e6cf, #dcedc1);
+    border: 2px solid #81c784;
+    border-radius: 12px;
+    padding: 10px 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    transition: all 0.3s ease-in-out;
+
+}
+
+#bulbasauranime :hover {
+
+    transform: scale(1.02);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+
+}

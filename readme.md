@@ -2,7 +2,7 @@
 
 ## Esta es una enciclopedia de pokemon, en donde se podra ver datos curiosos de ellos, como sus sonidos, sus gestos y sus fotos con una breve descipcion de los mismos
 
-## esta es la vercion 1.1.0 de la pagina
+## Esta es la vercion 1.1.0 de la Aplicacion
 
 ![pagina1](./image/pagina1.png)
 

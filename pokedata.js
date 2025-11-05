@@ -1,6 +1,8 @@
 const boton = document.getElementById('boton')
 
-export const pokedata = [{
+export const pokedata = [
+
+{
 
 ID: 1,
 Nombre:"Bulbasaur",
