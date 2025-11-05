@@ -32,7 +32,6 @@
 
 ### Esto es un ejemplo del codigo 
 
-
 ```javascript
 {
 
@@ -41,7 +40,7 @@ Nombre:"Bulbasaur",
 Tipos: ["Planta","Veneno"],
 Evoluciones: ["Ivysaur", "Venusaur"],
 megaevoluciones: [],
-Altura: "0.7
+Altura: "0.7",
 peso: "6.9 kg",
 Habilidades: ["Espesura", "Clorofila (oculta)"],
 Imagen: './image/bulbasaur.png',
