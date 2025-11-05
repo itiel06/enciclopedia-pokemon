@@ -8,6 +8,16 @@
 
 ### Esto es un ejemplo del codigo 
 
+## se agrego la pagina de Bulbasaur y se corrigieron errores tipograficos anteriores, como que la aplicacion a la cual se le llamaba "Pagina".
+
+![pagina2](./image/paginadeBulvasaur.png)
+
+## la aplicacion contiene audios del pokemon tantos provenientes del anime como de los juegos, aparte de esto tambien se agregaron datos de la primera aparicion del pokemon como a su vez  datos de los mismos 
+
+![pagina3](./image/paginadebulbasaur1.png)
+
+### Esto es un ejemplo del codigo 
+
 ```javascript
 {
 
@@ -16,7 +26,7 @@ Nombre:"Bulbasaur",
 Tipos: ["Planta","Veneno"],
 Evoluciones: ["Ivysaur", "Venusaur"],
 megaevoluciones: [],
-Altura: "0.7",
+Altura: "0.7
 peso: "6.9 kg",
 Habilidades: ["Espesura", "Clorofila (oculta)"],
 Imagen: './image/bulbasaur.png',
