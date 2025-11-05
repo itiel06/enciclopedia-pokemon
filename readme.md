@@ -31,28 +31,6 @@
 
 ![pagina4](./image/ivysaurpagina.png)
 
-<<<<<<< HEAD
-### Esto es un ejemplo del codigo 
->>>>>>> 545334ea49f4db9019112900817423fcdac66238
-=======
->>>>>>> 763f296d197e306045c09151bf28d8ca0208217e
-
-## se agrego la pagina de Bulbasaur y se corrigieron errores tipograficos anteriores, como que la aplicacion a la cual se le llamaba "Pagina".
-
-![pagina2](./image/paginadeBulvasaur.png)
-
-## la aplicacion contiene audios del pokemon tantos provenientes del anime como de los juegos, aparte de esto tambien se agregaron datos de la primera aparicion del pokemon como a su vez  datos de los mismos 
-
-![pagina3](./image/paginadebulbasaur1.png)
-
-# vercion 1.2.1
-
-## se incluyo la pagina de Ivysaur se cambio el estilo visual de las paginas al entrar a los pokemon
-
-![pagina4](./image/ivysaurpagina.png)
-
-### Esto es un ejemplo del codigo 
-
 ### Esto es un ejemplo del codigo 
 
 ```javascript
