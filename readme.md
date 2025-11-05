@@ -12,8 +12,6 @@
 
 ## Esta es la vercion 1.1.0 de la Aplicacion
 
-![pagina1](./image/pagina1.png)
-
 # vercion, 1.2.0
 
 ## se agrego la pagina de Bulbasaur y se corrigieron errores tipograficos anteriores, como que la aplicacion a la cual se le llamaba "Pagina".
@@ -29,6 +27,8 @@
 ## se incluyo la pagina de Ivysaur se cambio el estilo visual de las paginas al entrar a los pokemon
 
 ![pagina4](./image/ivysaurpagina.png)
+
+
 
 ### Esto es un ejemplo del codigo 
 
