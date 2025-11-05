@@ -4,9 +4,9 @@
 
 ## Esta es la vercion 1.1.0 de la Aplicacion
 
-Version 1.2.0
 ![pagina1](./image/pagina1.png)
 
+Version 1.2.0
 ## se agrego la pagina de Bulbasaur y se corrigieron errores tipograficos anteriores, como que la aplicacion a la cual se le llamaba "Pagina".
 
 ![pagina2](./image/paginadeBulvasaur.png)
